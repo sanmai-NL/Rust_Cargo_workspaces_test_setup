@@ -4,4 +4,4 @@ publish = false
 version = "0.1.0"
 
 [dependencies]
-my_lib = { path = "../my_lib" , version = "0.1.0" }
+my_lib = "0.1.0"
