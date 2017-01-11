@@ -1,0 +1,5 @@
+[workspace]
+members = ["my_app", "my_lib"]
+
+[replace]
+"my_lib:0.1.0" = { path = "my_lib" }

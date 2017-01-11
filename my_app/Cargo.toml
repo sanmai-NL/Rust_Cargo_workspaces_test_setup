@@ -1,0 +1,7 @@
+[package]
+name = "my_app"
+publish = false
+version = "0.1.0"
+
+[dependencies]
+my_lib = { path = "../my_lib" , version = "0.1.0" }
